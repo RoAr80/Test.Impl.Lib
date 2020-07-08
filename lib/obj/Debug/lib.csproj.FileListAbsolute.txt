@@ -1,0 +1,6 @@
+D:\DEV\Job\lib\lib\bin\Debug\lib.dll
+D:\DEV\Job\lib\lib\bin\Debug\lib.pdb
+D:\DEV\Job\lib\lib\obj\Debug\lib.csprojAssemblyReference.cache
+D:\DEV\Job\lib\lib\obj\Debug\lib.csproj.CoreCompileInputs.cache
+D:\DEV\Job\lib\lib\obj\Debug\lib.dll
+D:\DEV\Job\lib\lib\obj\Debug\lib.pdb
